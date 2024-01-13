@@ -149,6 +149,8 @@ nav ul li a {
 
 .team_features{
     display: flex;
+    align-items: center;
+    padding: 0 7rem;
 }
 
 .team_features_img {
@@ -161,6 +163,10 @@ nav ul li a {
     width: 100%;
 }
 
+.team_features_content {
+    padding: 0 0 0 4rem;
+    width: 468px;
+}
 
 
 
